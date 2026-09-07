@@ -248,3 +248,6 @@ This repository serves as the official landing page for Amour Sucré. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Download the most recent version of Amour Sucré today!**
+
+---
+**Last updated:** 2026-09-07 15:32:17 UTC
