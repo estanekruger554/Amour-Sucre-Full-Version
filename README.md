@@ -250,4 +250,4 @@ This repository serves as the official landing page for Amour Sucré. The softwa
 **Download the most recent version of Amour Sucré today!**
 
 ---
-**Last updated:** 2026-09-13 22:55:45 UTC
+**Last updated:** 2026-09-14 00:48:47 UTC
